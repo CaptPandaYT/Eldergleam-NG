@@ -30,7 +30,7 @@ Never disable the pagefile - this may lead to various issues on your system, suc
 
 If you've never touched the pagefile, try performing the following steps:
 1. Press Windows + R on your keyboard
-2. Type sysdm.cpl ,3
+2. Type sysdm.cpl
 3. Press Enter
 4. Under the Performance section, press 'Settings'
 Click the Advanced tab at the top
