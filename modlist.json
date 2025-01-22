@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Eldergleam Next-Gen",
+    "description": "﻿Eldergleam is a Skyrim Modlist that focuses on replacing Skyrim’s vanilla visuals with 2k-4k photorealistic textures. Most of the textures are parallaxed, having that 3D look. Additionally, the animations have also been completely replaced, making the game feel more fluid and up to date to today’s standards. Eldergleam was made for it to be easily modified by new and veteran moders who wants a base modlist that already has all the core mods needed to start modding and having one of the best visual mods to start of with. You’ll be able to get the exact modlist with just a few clicks thanks to the amazing program Wabbajack.",
+    "author": "Capt. Panda",
+    "maintainers": [
+      "github/CaptPandaYT"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Skyrim Special Edition",
+      "Creation Club",
+	  "Graphics Overhaul",
+	  "Never Nude",
+	  "Remaster",
+	  "MCO",
+	  "Animations"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://imgur.com/f5L5Yrj",
+      "readme": "https://github.com/CaptPandaYT/Eldergleam-NG/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Eldergleam%20-%20NG%20v3.0.wabbajack_7f1561ea-46bc-4af4-8f25-7d158cb86778",
+      "machineURL": "EldergleamNG",
+      "discordURL": "https://discord.gg/5RRtjr9c"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "3.0"
+  }
+]
