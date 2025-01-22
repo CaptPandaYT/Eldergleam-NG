@@ -30,7 +30,7 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "saMrrnVfG7U",
+      "Hash": "saMrrnVfG7U=",
       "Size": 227050409,
       "NumberOfArchives": 1909,
       "SizeOfArchives": 187922189255,
