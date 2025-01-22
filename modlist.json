@@ -22,7 +22,7 @@
     "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/CaptPandaYT/Eldergleam-NG/refs/heads/main/logo.png",
+      "image": "https://raw.githubusercontent.com/CaptPandaYT/Eldergleam-NG/main/logo.png",
       "readme": "https://github.com/CaptPandaYT/Eldergleam-NG/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Eldergleam%20-%20NG%20v3.0.wabbajack_7f1561ea-46bc-4af4-8f25-7d158cb86778",
       "machineURL": "EldergleamNG",
