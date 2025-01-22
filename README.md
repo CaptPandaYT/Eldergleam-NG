@@ -1,1 +1,2 @@
-# Eldergleam-NG
+ELDERGLEAM v3.0
+
