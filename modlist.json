@@ -1,42 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Eldergleam Next-Gen",
-    "description": "﻿Eldergleam is a Skyrim Modlist that focuses on replacing Skyrim’s vanilla visuals with 2k-4k photorealistic textures. Most of the textures are parallaxed, having that 3D look. Additionally, the animations have also been completely replaced, making the game feel more fluid and up to date to today’s standards. Eldergleam was made for it to be easily modified by new and veteran moders who wants a base modlist that already has all the core mods needed to start modding and having one of the best visual mods to start of with. You’ll be able to get the exact modlist with just a few clicks thanks to the amazing program Wabbajack.",
+    "description": "\uFEFFEldergleam is a Skyrim Modlist that focuses on replacing Skyrim\u2019s vanilla visuals with 2k-4k photorealistic textures. Most of the textures are parallaxed, having that 3D look. Additionally, the animations have also been completely replaced, making the game feel more fluid and up to date to today\u2019s standards. Eldergleam was made for it to be easily modified by new and veteran moders who wants a base modlist that already has all the core mods needed to start modding and having one of the best visual mods to start of with. You\u2019ll be able to get the exact modlist with just a few clicks thanks to the amazing program Wabbajack.",
     "author": "Capt. Panda",
     "maintainers": [
       "github/CaptPandaYT"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Skyrim Special Edition",
       "Creation Club",
-	  "Graphics Overhaul",
-	  "Never Nude",
-	  "Remaster",
-	  "MCO",
-	  "Animations"
+      "Graphics Overhaul",
+      "Never Nude",
+      "Remaster",
+      "MCO",
+      "Animations"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CaptPandaYT/Eldergleam-NG/main/logo.png",
       "readme": "https://github.com/CaptPandaYT/Eldergleam-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Eldergleam%20Next-Gen.wabbajack_f07a0ada-62b6-47c7-a53f-3144ad885308",
+      "download": "https://authored-files.wabbajack.org/Eldergleam Next-Gen.wabbajack_aa5a164a-cb90-4b4d-a568-ef37181654c3",
       "machineURL": "EldergleamNG",
       "discordURL": "https://discord.gg/5RRtjr9c"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "saMrrnVfG7U=",
-      "Size": 227050409,
-      "NumberOfArchives": 1909,
-      "SizeOfArchives": 187922189255,
-      "NumberOfInstalledFiles": 213877,
-      "SizeOfInstalledFiles": 229453475786
+      "Hash": "8kP0fBGbE8U=",
+      "Size": 227036300,
+      "NumberOfArchives": 1908,
+      "SizeOfArchives": 187917437275,
+      "NumberOfInstalledFiles": 213806,
+      "SizeOfInstalledFiles": 229454346159
     },
-    "version": "3.0"
+    "version": "3.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-01-23T06:30:57.9874952Z",
+    "repositoryName": ""
   }
 ]
