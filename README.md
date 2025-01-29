@@ -115,4 +115,8 @@ If you encounter any issues during the installation process, consider going thro
 
 # POST-INSTALLATION
 
-Just have fun and DO NOT use the Vanilla Start :) 
+## Controls Setup (Keyboard/Gamepad)
+
+![alt text](https://i.imgur.com/PRpgSrq.png)
+
+![alt text](https://staticdelivery.nexusmods.com/mods/1704/images/140010/140010-1738168087-1800678928.jpeg)
