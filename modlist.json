@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/CaptPandaYT/Eldergleam-NG/main/logo.png",
       "readme": "https://github.com/CaptPandaYT/Eldergleam-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Eldergleam Next-Gen.wabbajack_6bdb07d7-39a6-41bc-a783-2b3dff0630fe",
+      "download": "https://authored-files.wabbajack.org/Eldergleam Next-Gen.wabbajack_968188ae-5934-49b3-bb5e-b44d22533324",
       "machineURL": "EldergleamNG",
       "discordURL": "https://discord.gg/5RRtjr9c"
     },
     "download_metadata": {
-      "Hash": "nNov1oYuxVM=",
-      "Size": 249950659,
-      "NumberOfArchives": 1936,
-      "SizeOfArchives": 178615091477,
-      "NumberOfInstalledFiles": 211555,
-      "SizeOfInstalledFiles": 222842425844
+      "Hash": "8QJvFdrHsmI=",
+      "Size": 1996390125,
+      "NumberOfArchives": 1932,
+      "SizeOfArchives": 177202045727,
+      "NumberOfInstalledFiles": 211866,
+      "SizeOfInstalledFiles": 222917948688
     },
-    "version": "3.0.2",
+    "version": "3.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-29T16:08:36.7286006Z",
+    "dateUpdated": "2025-03-09T16:19:12.9545876Z",
     "repositoryName": ""
   }
 ]
