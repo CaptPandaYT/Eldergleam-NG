@@ -6,7 +6,7 @@ Welcome to the Official Readme of Eldergleam NG
 
 # IMPORTANT LINKS
 
-[Community Discord](https://discord.gg/34zqfZUqpQ ) 
+[Community Discord](https://discord.gg/WEn385b3tq ) 
 [Nexus Modspage](https://www.nexusmods.com/skyrimspecialedition/mods/105778)
 
 After reading the whole README and you're still having issues, feel free to join Discord and ask help.
